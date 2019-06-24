@@ -15,7 +15,7 @@
 
 minikube implements a local Kubernetes cluster on macOS, Linux, and Windows.
 
-![screenshot](/images/start.jpg)
+<p><img src="https://github.com/kubernetes/minikube/raw/master/images/start.jpg" width="494" alt="minikube screenshot" /></p>
 
 minikube's [primary goals](https://github.com/kubernetes/minikube/blob/master/docs/contributors/principles.md) are to be the best tool for local Kubernetes application development and to support all Kubernetes features that fit. We hope you enjoy it!
 
