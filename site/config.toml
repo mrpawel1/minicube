@@ -71,7 +71,7 @@ time_format_blog = "02.01.2006"
 # Everything below this are Site Params
 
 [params]
-copyright = "Copyright © 2019 The Linux Foundation"
+copyright = "The Linux Foundation"
 privacy_policy = ""
 
 # Menu title if your navbar has a versions selector to access old versions of your site.
@@ -114,7 +114,7 @@ no = 'Sorry to hear that. Please <a href="https://github.com/kubernetes/minikube
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
 	name = "User mailing list"
-	url = "https://example.org/mail"
+	url = "https://groups.google.com/forum/#!forum/minikube-users"
 	icon = "fa fa-envelope"
         desc = "Discussion and help from your fellow users"
 [[params.links.user]]
@@ -124,7 +124,7 @@ no = 'Sorry to hear that. Please <a href="https://github.com/kubernetes/minikube
         desc = "Follow us on Twitter to get the latest news!"
 [[params.links.user]]
 	name = "Stack Overflow"
-	url = "https://example.org/stack"
+	url = "https://stackoverflow.com/questions/tagged/minikube"
 	icon = "fab fa-stack-overflow"
         desc = "Practical questions and curated answers"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
@@ -135,12 +135,12 @@ no = 'Sorry to hear that. Please <a href="https://github.com/kubernetes/minikube
         desc = "Development takes place here!"
 [[params.links.developer]]
 	name = "Slack"
-	url = "https://example.org/slack"
+	url = "https://kubernetes.slack.com/messages/C1F5CT6Q1"
 	icon = "fab fa-slack"
         desc = "Chat with other project developers"
 [[params.links.developer]]
 	name = "Developer mailing list"
-	url = "https://example.org/mail"
+	url = "https://groups.google.com/forum/#!forum/minikube-dev"
 	icon = "fa fa-envelope"
         desc = "Discuss development issues around the project"
 
